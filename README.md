@@ -67,6 +67,12 @@ Follow these steps to run the project:
 
 ---
 
+## Physical Diagram
+<img width="1093" height="1448" alt="image" src="https://github.com/user-attachments/assets/721990c4-3205-455c-8ede-435fbd2496c2" />
+
+<img width="1075" height="1321" alt="image" src="https://github.com/user-attachments/assets/43d3f987-08cf-40bf-b668-d80b46e10b17" />
+
+
 ## 🔧 Example Output (Serial Monitor)
 
 ```plaintext
@@ -78,3 +84,4 @@ Too high! Try again:
 Too low! Try again:
 > 42
 Congratulations! You guessed it!
+

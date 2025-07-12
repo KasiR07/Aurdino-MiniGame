@@ -4,7 +4,7 @@ A fun and interactive **number guessing game built using Arduino UNO**, where th
 
 ---
 
-## 🧩 Project Overview
+## 🧩 Project 
 
 This beginner-friendly project helps users understand **serial communication**, **random number generation**, and **user input handling** in Arduino. It acts as a console game powered by microcontroller logic instead of a PC!
 

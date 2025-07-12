@@ -25,7 +25,7 @@ The sketch:
 
 ---
 
-## 📂 File Structure
+## 📂 File 
 
 | File Name                  | Description                        |
 |---------------------------|------------------------------------|

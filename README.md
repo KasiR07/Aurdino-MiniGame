@@ -16,7 +16,7 @@ The sketch:
 
 ---
 
-## 🛠️ Hardware Requirements
+## 🛠️ Hardware 
 
 - ✅ Arduino UNO (or compatible board)
 - ✅ USB Cable (to connect with PC)
